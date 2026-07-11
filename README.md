@@ -1,3 +1,8 @@
+Python
+MIT License
+Version 1.0
+CustomTkinter
+
 # number-challenge-python
 A modern math game built with Python and CustomTkinter.
 
