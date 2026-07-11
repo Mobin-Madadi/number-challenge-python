@@ -25,8 +25,6 @@ A modern desktop math game built with **Python** and **CustomTkinter**.
 
 ---
 
-assets/Screenshot.jpg
-
 ## 📷 Screenshot
 
 <p align="center">
