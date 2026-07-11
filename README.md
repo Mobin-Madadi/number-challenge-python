@@ -27,7 +27,9 @@ A modern desktop math game built with **Python** and **CustomTkinter**.
 
 assets/Screenshot.png
 
-![Game](assets/screenshot.png)
+## 📷 Screenshot
+
+![Number Challenge](assets/Background.png)
 
 ---
 
