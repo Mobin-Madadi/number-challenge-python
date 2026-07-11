@@ -28,7 +28,7 @@ A modern desktop math game built with **Python** and **CustomTkinter**.
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="assets/Background.jpg" width="750">
+  <img src="assets/Screenshot.png" width="750">
 </p>
 
 ---
