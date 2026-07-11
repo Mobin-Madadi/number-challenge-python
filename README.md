@@ -30,7 +30,7 @@ assets/Screenshot.png
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="assets/Background.png" width="750">
+  <img src="assets/Background.jpg" width="750">
 </p>
 
 ---
