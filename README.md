@@ -29,7 +29,9 @@ assets/Screenshot.png
 
 ## 📷 Screenshot
 
-![Number Challenge](assets/Background.png)
+<p align="center">
+  <img src="assets/Background.png" width="750">
+</p>
 
 ---
 
