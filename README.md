@@ -20,7 +20,7 @@ A modern desktop math game built with **Python** and **CustomTkinter**.
 
 ---
 
-## 📷 Screenshot
+assets/Screenshot.png
 
 ![Game](assets/screenshot.png)
 
