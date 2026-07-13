@@ -28,22 +28,22 @@ A modern desktop math game built with **Python** and **CustomTkinter**.
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="assets/Screenshot.png" width="750">
+  <img src="assets/Dark mode.png" width="750">,
+  <img src="assets/Light mode.png" width="750">
 </p>
 
 ---
 
 ## 🚀 Installation
 
-```bash
-git clone https://github.com/USERNAME/number-challenge.git
+
+git clone https://github.com/Mobin-Madadi/number-challenge.git
 
 cd number-challenge
 
 pip install -r requirements.txt
 
 python main.py
-```
 
 ---
 
